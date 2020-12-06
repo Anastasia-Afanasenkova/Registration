@@ -1,0 +1,11 @@
+D:\VSProjects\Authorization\Authorization\bin\Debug\Authorization.exe.config
+D:\VSProjects\Authorization\Authorization\bin\Debug\Authorization.exe
+D:\VSProjects\Authorization\Authorization\bin\Debug\Authorization.pdb
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.csprojAssemblyReference.cache
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.Form1.resources
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.exe
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.pdb
+D:\VSProjects\Authorization\Authorization\obj\Debug\Authorization.Form2.resources
